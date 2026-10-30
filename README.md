@@ -1,4 +1,4 @@
-# Retail Business Analysis using Tableau Public link (https://public.tableau.com/views/Retailbusinessinsights/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# Retail Business Analysis 
 
 ## Objective
 To analyze retail sales data, identify business insights, and create an interactive dashboard using Tableau Public.
